@@ -1,0 +1,100 @@
+*{
+    
+    padding: 0;
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+body{
+    
+    min-height: 100vh;
+    background: url(Fondo\ artists.jpeg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: start;
+    text-align: justify;
+
+}
+.logo{
+    position: initial;
+    margin-top: 2px;
+    border-color: transparent;
+}
+
+#titulo{
+    margin-left: 600px;
+    margin-top: -50px;
+}
+#des1{
+    margin-left: 75px;
+    margin-right: 750px;
+    margin-top: 20px;
+    font-style: italic;
+    font-size: larger; 
+    border-right: 2px;  
+}
+p{
+    color: white;
+    
+}
+
+#des2{
+    margin-left: 750px;
+    margin-right: 75px;
+    margin-top: -20px;
+    font-style: italic;
+    font-size: large; 
+}
+
+
+
+#img1{
+    margin-left: 100px;
+    margin-right: 500px;
+}
+#img2{
+    margin-left: 700px;
+    margin-right: 100px;
+}
+
+
+.navbar ul{
+  list-style-type: none;
+  background-color: transparent;
+  padding: 0px;
+  margin: 0px;
+  overflow: hidden;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: grey;
+
+}
+.navbar li{
+    float: left;
+}
+
+
+ 
+.titulo{
+    position: initial;
+    margin-left: 400px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-color: transparent;
+}
+
+#Dennis-des{
+    border-color: transparent;
+    background: transparent;
+    margin-bottom: 150px;
+    
+}
