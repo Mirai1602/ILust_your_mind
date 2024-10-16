@@ -47,7 +47,7 @@ body{
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: url("pictures/FondoAU.jpeg")  no-repeat center;
+    background: url("FondoAU.jpeg")  no-repeat center;
     background-attachment: fixed;
     background-size: cover;
 }
